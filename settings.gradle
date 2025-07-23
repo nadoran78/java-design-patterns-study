@@ -1,3 +1,4 @@
 rootProject.name = 'java-design-patterns-study'
 include 'iterator'
+include 'adapter'
 
