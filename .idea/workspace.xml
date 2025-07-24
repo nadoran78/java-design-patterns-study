@@ -30,6 +30,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -69,7 +70,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.com.example.adapter.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.iterator.Main" />
       <module name="java-design-patterns-study.iterator.main" />
@@ -83,8 +84,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.example.adapter.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.adapter.Main" />
+      <module name="java-design-patterns-study.adapter.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.example.adapter.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -98,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1753162801519</updated>
       <workItem from="1753162802514" duration="2626000" />
-      <workItem from="1753190523926" duration="3309000" />
+      <workItem from="1753190523926" duration="5747000" />
     </task>
     <servers />
   </component>
