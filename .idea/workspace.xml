@@ -70,7 +70,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.example.adapter.Main">
+  <component name="RunManager" selected="Application.com.example.template_method.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.iterator.Main" />
       <module name="java-design-patterns-study.iterator.main" />
@@ -97,8 +97,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.example.template_method.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.template_method.Main" />
+      <module name="java-design-patterns-study.template-method.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.template_method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.example.template_method.Main" />
         <item itemvalue="Application.com.example.adapter.Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -113,7 +127,7 @@
       <option name="presentableId" value="Default" />
       <updated>1753162801519</updated>
       <workItem from="1753162802514" duration="2626000" />
-      <workItem from="1753190523926" duration="5747000" />
+      <workItem from="1753190523926" duration="7972000" />
     </task>
     <servers />
   </component>
