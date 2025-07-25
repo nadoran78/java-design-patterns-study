@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/adapter" />
+            <option value="$PROJECT_DIR$/factory-method" />
             <option value="$PROJECT_DIR$/iterator" />
             <option value="$PROJECT_DIR$/template-method" />
           </set>
