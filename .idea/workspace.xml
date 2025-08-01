@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6e52350-aab2-468a-8bbe-bdee14eafb50" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-    </list>
+    <list default="true" id="d6e52350-aab2-468a-8bbe-bdee14eafb50" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +59,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "/Users/gwonjiyeong/dev/projects/java-design-patterns-study/prototype",
+    "last_opened_file_path": "/Users/gwonjiyeong/dev/projects/java-design-patterns-study/builder",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,6 +73,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/builder" />
       <recent name="$PROJECT_DIR$/prototype" />
       <recent name="$PROJECT_DIR$/singleton" />
       <recent name="$PROJECT_DIR$/factory-method" />
@@ -96,7 +93,7 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.builder.Main" />
       <module name="java-design-patterns-study.builder.main" />
-      <option name="PROGRAM_PARAMETERS" value="html" />
+      <option name="PROGRAM_PARAMETERS" value="frame" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.builder.*" />
@@ -172,22 +169,11 @@
       <option name="presentableId" value="Default" />
       <updated>1753162801519</updated>
       <workItem from="1753162802514" duration="2626000" />
-      <workItem from="1753190523926" duration="19315000" />
+      <workItem from="1753190523926" duration="20962000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/builder/src/main/java/com/example/builder/Main.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
