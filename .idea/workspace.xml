@@ -59,7 +59,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "/Users/gwonjiyeong/dev/projects/java-design-patterns-study/abstract-factory",
+    "last_opened_file_path": "/Users/gwonjiyeong/dev/projects/java-design-patterns-study/bridge",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,17 +73,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bridge" />
       <recent name="$PROJECT_DIR$/abstract-factory" />
       <recent name="$PROJECT_DIR$/builder" />
       <recent name="$PROJECT_DIR$/prototype" />
       <recent name="$PROJECT_DIR$/singleton" />
-      <recent name="$PROJECT_DIR$/factory-method" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.example.prototype" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.example.abstract_package.Main">
+  <component name="RunManager" selected="Application.com.example.bridge.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="java-design-patterns-study.prototype.main" />
@@ -119,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.example.factory_method.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.factory_method.Main" />
-      <module name="java-design-patterns-study.factory-method.main" />
+    <configuration name="com.example.bridge.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.bridge.Main" />
+      <module name="java-design-patterns-study.bridge.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.factory_method.*" />
+          <option name="PATTERN" value="com.example.bridge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,19 +146,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.com.example.bridge.Main" />
       <item itemvalue="Application.com.example.abstract_package.Main" />
-      <item itemvalue="Application.com.example.factory_method.Main" />
       <item itemvalue="Application.com.example.singleton.Main" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.example.bridge.Main" />
         <item itemvalue="Application.com.example.abstract_package.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.com.example.singleton.Main" />
-        <item itemvalue="Application.com.example.factory_method.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +171,7 @@
       <option name="presentableId" value="Default" />
       <updated>1753162801519</updated>
       <workItem from="1753162802514" duration="2626000" />
-      <workItem from="1753190523926" duration="27259000" />
+      <workItem from="1753190523926" duration="28925000" />
     </task>
     <servers />
   </component>
