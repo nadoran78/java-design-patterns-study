@@ -31,6 +31,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -59,7 +60,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "/Users/gwonjiyeong/dev/projects/java-design-patterns-study/bridge",
+    "last_opened_file_path": "/Users/gwonjiyeong/dev/projects/java-design-patterns-study/strategy",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,17 +74,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/strategy" />
       <recent name="$PROJECT_DIR$/bridge" />
       <recent name="$PROJECT_DIR$/abstract-factory" />
       <recent name="$PROJECT_DIR$/builder" />
       <recent name="$PROJECT_DIR$/prototype" />
-      <recent name="$PROJECT_DIR$/singleton" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.example.prototype" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.example.bridge.Main">
+  <component name="RunManager" selected="Application.com.example.strategy.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="java-design-patterns-study.prototype.main" />
@@ -145,7 +146,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.example.strategy.Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.strategy.Main" />
+      <module name="java-design-patterns-study.strategy.main" />
+      <option name="PROGRAM_PARAMETERS" value="314 15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.com.example.strategy.Main" />
       <item itemvalue="Application.com.example.bridge.Main" />
       <item itemvalue="Application.com.example.abstract_package.Main" />
       <item itemvalue="Application.com.example.singleton.Main" />
@@ -171,7 +187,7 @@
       <option name="presentableId" value="Default" />
       <updated>1753162801519</updated>
       <workItem from="1753162802514" duration="2626000" />
-      <workItem from="1753190523926" duration="28925000" />
+      <workItem from="1753190523926" duration="31848000" />
     </task>
     <servers />
   </component>

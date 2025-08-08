@@ -17,6 +17,7 @@
             <option value="$PROJECT_DIR$/iterator" />
             <option value="$PROJECT_DIR$/prototype" />
             <option value="$PROJECT_DIR$/singleton" />
+            <option value="$PROJECT_DIR$/strategy" />
             <option value="$PROJECT_DIR$/template-method" />
           </set>
         </option>
